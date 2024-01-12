@@ -1,5 +1,5 @@
-# Hackintosh_I5-8265U
-Specifications :
+## Dell Vostro 3580
+###Specifications :
 - Processor : Intel Core i5 8265U
 - iGPU : Intel UHD 620
 - dGPU : Radeon 520 (disable)
@@ -9,7 +9,7 @@ Specifications :
 - Audio Codec : Realtek ALC236
 - Monitor Resolution : 1920 x 1080
 - OS Version : macOS Sonoma
-Work??
+### Work??
 - Restart, Sleep and Shutdown
 - CPU Power Management
 - Ethernet
@@ -20,5 +20,5 @@ Work??
 - HDMI and DP Audio
 - All USB Ports
 - Etc
-Not Work??
+### Not Work??
 - .
